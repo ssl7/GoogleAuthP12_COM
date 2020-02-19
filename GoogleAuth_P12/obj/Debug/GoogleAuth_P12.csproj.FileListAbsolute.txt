@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\bin\Debug\GoogleAuth_P12.dll
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\bin\Debug\GoogleAuth_P12.pdb
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\obj\Debug\GoogleAuth_P12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\obj\Debug\GoogleAuth_P12.dll
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\obj\Debug\GoogleAuth_P12.pdb
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\bin\Debug\GoogleAuth_P12.tlb
+C:\Users\Admin\source\repos\GoogleAuth_P12\GoogleAuth_P12\obj\Debug\GoogleAuth_P12.csprojAssemblyReference.cache
